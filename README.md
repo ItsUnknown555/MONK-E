@@ -1,60 +1,28 @@
 # 🐒 MONK-E: Neon Pulse
+> Developed by **ItsUnknown555**
 
-![MONK-E Logo](https://gemini.google.com/share/9e23d764dfa9)) 
+![MONK-E Logo](https://raw.githubusercontent.com/ItsUnknown555/MONK-E/main/logo.png)
 
-
-**MONK-E** is a high-octane, neon-drenched survival arcade game. You play as a technologically enhanced primate defending a gothic cathedral from endless swarms of vampires using powerful energy pulses and high-speed dash maneuvers.
+**MONK-E** is a high-octane, neon-drenched survival arcade game. Built by **ItsUnknown555**, this game pits a technologically enhanced primate against endless swarms of vampires in a gothic-future setting.
 
 ---
 
 ## 🎮 Features
-
-* **100 Levels of Chaos:** Face increasing difficulty with faster, smarter, and stronger vampire hordes.
-* **Epic Boss Fights:** Every 10th level, face off against legendary vampire lords with unique attack patterns.
-* **Roguelite Upgrades:** Customize your Monkey after every boss fight. Choose between faster recharges, larger pulse radii, or increased speed.
-* **Tactical Movement:** Master the **Dash** mechanic to escape tight corners and dodge projectiles.
-* **Pro Visuals:** Experience parallax backgrounds, screen shake, and dynamic particle explosions.
-* **Save System:** Your progress is automatically saved to your browser so you can "Continue" your hunt anytime.
+* **100 Levels of Chaos:** Procedural difficulty scaling.
+* **Roguelite Mechanics:** Choose unique power-ups after every Boss fight.
+* **Physics-Based Movement:** Experience realistic inertia and "Ghost Dash" mechanics.
+* **Global Ready:** Optimized for both Desktop (Keyboard) and Mobile (Touch).
 
 ---
 
-## 🕹️ How to Play
-
-### Controls:
-| Action | Keyboard | Touch / Mobile |
-| :--- | :--- | :--- |
-| **Move** | `WASD` or `Arrow Keys` | Virtual Joystick |
-| **Energy Pulse** | `Spacebar` | Pulse Button |
-| **Dash** | `Shift` or `Right Click` | Dash Button |
-
-### Objective:
-1.  **Survive:** Don't let the vampires touch the center core.
-2.  **Clear Waves:** Reach the kill goal for each level to progress.
-3.  **Upgrade:** Defeat bosses to gain permanent buffs.
+## 🕹️ Play Now
+You can play the game directly in your browser here:
+👉 **[Play MONK-E by ItsUnknown555](https://ItsUnknown555.github.io/MONK-E/)**
 
 ---
 
-## 🛠️ Technical Details
-
-* **Engine:** Pure HTML5 Canvas & Vanilla JavaScript (No external libraries).
-* **Styling:** CSS3 for glassmorphism UI and neon effects.
-* **Storage:** `localStorage` API for save-game persistence.
-* **Social:** Integrated `Web Share API` to challenge friends with your high score.
-
----
-
-## 🚀 Getting Started
-
-To run this game locally:
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/MONK-E.git](https://github.com/YOUR_USERNAME/MONK-E.git)
-    ```
-2.  Open `index.html` (or your filename) in any modern web browser.
-
----
-
-## 🏆 Credits
-Developed with a focus on "Game Juice" and immersive arcade mechanics.
-
-**Created by [Ayaan]**
+## 🛠️ Installation for Developers
+If you want to explore the source code:
+```bash
+git clone [https://github.com/ItsUnknown555/MONK-E.git](https://github.com/ItsUnknown555/MONK-E.git)
+cd MONK-E
