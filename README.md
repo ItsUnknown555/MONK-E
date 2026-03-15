@@ -1,7 +1,7 @@
 # 🐒 MONK-E: Neon Pulse
 
-![MONK-E Logo](https://via.placeholder.com/800x400.png?text=MONK-E+NEON+PULSE) 
-*(Tip: Replace this link with your actual logo image once uploaded to GitHub)*
+![MONK-E Logo](https://gemini.google.com/share/9e23d764dfa9)) 
+
 
 **MONK-E** is a high-octane, neon-drenched survival arcade game. You play as a technologically enhanced primate defending a gothic cathedral from endless swarms of vampires using powerful energy pulses and high-speed dash maneuvers.
 
